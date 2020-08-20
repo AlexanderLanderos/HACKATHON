@@ -1,0 +1,4 @@
+{    "name": "Fetching lyrics from API",    
+      "version": "1.0",    
+      "description": "Get song lyrics",    
+      "manifest_version": 2}
